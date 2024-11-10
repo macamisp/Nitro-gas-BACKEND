@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/main/java/com/gass/Controller/GassController.java;D:/PORJECTS/apilage_Gass/Gass/backend/backend/src/main/java/com/gass/dto/Gass.java;D:/PORJECTS/apilage_Gass/Gass/backend/backend/src/main/java/com/gass/entity/GassEntity.java;D:/PORJECTS/apilage_Gass/Gass/backend/backend/src/main/java/com/gass/repository/GassRepository.java;D:/PORJECTS/apilage_Gass/Gass/backend/backend/src/main/java/com/gass/service/GassService.java;D:/PORJECTS/apilage_Gass/Gass/backend/backend/src/main/java/com/gass/service/GassServiceImpl.java;D:/PORJECTS/apilage_Gass/Gass/backend/backend/src/main/java/com/gass/Main.java;D:/PORJECTS/apilage_Gass/Gass/backend/backend/pom.xml;D:/PORJECTS/apilage_Gass/Gass/backend/backend/README.md" />
+  </component>
+</project>

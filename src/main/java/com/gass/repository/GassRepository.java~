@@ -1,0 +1,11 @@
+package com.gass.repository;
+
+import com.gass.dto.Gass;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface GassRepository extends JpaRepository<Gass, Integer> {
+}
+
+
