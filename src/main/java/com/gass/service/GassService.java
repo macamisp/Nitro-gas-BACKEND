@@ -1,6 +1,7 @@
 package com.gass.service;
 
 import com.gass.dto.Gass;
+import com.gass.entity.GassEntity;
 
 import java.util.List;
 
